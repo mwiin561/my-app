@@ -21,6 +21,6 @@ function App() {
     </div>
   );
 }
-//we did it haha, lol
+
 
 export default App;
